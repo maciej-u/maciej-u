@@ -1,7 +1,7 @@
 ## Hi there, I'm Maciej Urbanke 👋
 
 ## About Me
-🌍 Living in Katowice, Poland, I'm passionate about data analytics and excited to delve into data management. Currently enhancing my skills at Turing College, I'm halfway through a Data Analytics course, mastering spreadsheets, SQL, Python and data visualization.
+🌍 Living in Katowice, Poland, I'm passionate about data analytics and excited to delve into data management. Enhanced my skills at Turing College through a Data Analytics course, mastering spreadsheets, SQL, Python, and data visualization with Tableau and Looker Studio.
 
 ## Technical Toolkit
 - **SQL Expertise:** BigQuery, MySQL, and GitHub Copilot
