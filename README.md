@@ -12,7 +12,7 @@
 - **Office Tools & File Management:** MS Office, Google Workspace, SharePoint, Google Drive, Dropbox
 
 ## Professional Journey
-- Partnership Specialist at NoA Ignite Poland (part-time - since October 2023)
+- Sales Process Lead at NoA Ignite Poland (part-time - since October 2023)
 - Taking a strategic break for personal development and language proficiency enhancement (March 2023 - October 2023)
 - Business Development Specialist at Cledar (Nov 2021 – Jan 2023).
 - Business Development Manager at Ebicom (Oct 2019 – Jun 2021).
