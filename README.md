@@ -33,7 +33,7 @@
 ## Let's Connect!
 I'm open to business analysis, project management, and tech solutions discussions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maciej-urbanke/)!
 
---- ![ ]([https://flask-visitor-tracker.onrender.com](https://flask-visitor-tracker.onrender.com/track))
+--- ![ ](https://flask-visitor-tracker.onrender.com/track)
 
 *Looking forward to collaborating and learning together in this amazing community!*
 
